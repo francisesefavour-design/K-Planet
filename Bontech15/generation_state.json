@@ -1,14 +1,15 @@
 {
-  "current_prefix_idx": 6,
+  "current_prefix_idx": 7,
   "completed_prefixes": [
     "0x92",
     "0x93",
     "0x94",
     "0x95",
     "0x96",
-    "0x97"
+    "0x97",
+    "0x98"
   ],
-  "total_generated": 5400000,
+  "total_generated": 6300000,
   "user_complete": false,
-  "last_update": "2026-03-12T22:55:22.389712"
+  "last_update": "2026-03-12T22:55:30.606517"
 }
