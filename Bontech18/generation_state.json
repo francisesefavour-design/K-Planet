@@ -1,9 +1,10 @@
 {
-  "current_prefix_idx": 1,
+  "current_prefix_idx": 2,
   "completed_prefixes": [
-    "0xb0"
+    "0xb0",
+    "0xb1"
   ],
-  "total_generated": 900000,
+  "total_generated": 1800000,
   "user_complete": false,
-  "last_update": "2026-03-12T23:02:05.937929"
+  "last_update": "2026-03-12T23:02:12.716907"
 }
