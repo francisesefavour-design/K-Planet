@@ -1,5 +1,5 @@
 {
-  "current_prefix_idx": 8,
+  "current_prefix_idx": 9,
   "completed_prefixes": [
     "0x6a",
     "0x6b",
@@ -8,9 +8,10 @@
     "0x6e",
     "0x6f",
     "0x70",
-    "0x71"
+    "0x71",
+    "0x72"
   ],
-  "total_generated": 7200000,
+  "total_generated": 8100000,
   "user_complete": false,
-  "last_update": "2026-03-13T00:28:01.094583"
+  "last_update": "2026-03-13T00:28:08.880683"
 }
